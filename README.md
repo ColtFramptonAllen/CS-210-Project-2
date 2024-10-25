@@ -1,4 +1,4 @@
-# CS-210-Project-2.1
+# CS-210-Project-2
 
 This project was developed to do calculations on an initial investment to see the potential growth that someone would have on their investment over a set number of years at a specified APR. The program asks the user for several numbers including the initial investment amount, the APR %, and how many years they are going to leave the investment for. A bonus is it also allows the user to add an additional field of monthly deposits. The data is then processed and reflected in a table. The user then has the option of changing each of those values.
 
